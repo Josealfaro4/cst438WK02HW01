@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">cst438WK02HW01</string>
+    <string name="welcomeMessage">Please Login!</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="button">Login</string>
+    <string name="landingPageMessage">"Welcome din_djarin"</string>
+
+</resources>
